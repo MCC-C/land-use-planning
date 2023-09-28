@@ -1,2 +1,2 @@
 # land-use-planning
- This repository showcases an optimization project about land use planning.
+ This project is based of the work done in a paper which worked on multiobjective decision support for land-use planning (doi:10.1068/b33071). Optimizing land use involves striking a balance between multiple objectives such as maximizing natural value, enhancing recreational opportunities, and minimizing the cost of changing land use. Each one of these objectives are first optimized independently and then jointly in a multiobjective framework. This project in completed by using the genetic algorithm (GA). 
